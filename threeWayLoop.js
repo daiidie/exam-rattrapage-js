@@ -2,7 +2,7 @@
 const tab = ['Alice', 'Bob', 'Charlie', 'Dan', 'Eve'];
 
 const reversed = tab.reverse();
-console.log('reversed:', reversed);
+
 
 
 for (let i = 0; i < reversed.length; ++i) {
